@@ -8,6 +8,7 @@ This listener changes the color of the page depending on the degree
 of scrolling.
 
 This piece of code is memorable for me because it was a first time i used bitwise operators in my production and it went so smoothe.
+
 <img src="https://github.com/LossDemoss/public-skazkaterra/raw/main/PagerView.gif" alt="alt text" width="591" height="1280">
 
 ## PlayingService
