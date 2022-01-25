@@ -12,4 +12,6 @@ This piece of code is memorable for me because it was a first time i used bitwis
 ## PlayingService
 Android Service I wrote to stream music by link. Service supports 
 progress bar I/O and avoids becoming noisy (headphones jack / bluetooth management)
-![alt text](https://github.com/LossDemoss/public-skazkaterra/raw/main/Service1.jpg) ![alt text](https://github.com/LossDemoss/public-skazkaterra/raw/main/Service2.jpg)
+
+<img src="https://github.com/LossDemoss/public-skazkaterra/raw/main/Service1.jpg" alt="alt text" width="2000" height="100">
+<img src="https://github.com/LossDemoss/public-skazkaterra/raw/main/Service2.jpgl" alt="alt text" width="2000r" height="100">
